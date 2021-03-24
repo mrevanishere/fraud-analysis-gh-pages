@@ -1,5 +1,4 @@
 {
-  "homepage": "https://mrevanishere.github.io/fraud-analysis-gh-pages",
   "name": "fraud-analysis-gh-pages",
   "version": "0.1.0",
   "private": true,
@@ -40,5 +39,6 @@
   },
   "devDependencies": {
     "gh-pages": "^3.1.0"
-  }
+  },
+  "homepage": "https://mrevanishere.github.io/fraud-analysis-gh-pages"
 }
