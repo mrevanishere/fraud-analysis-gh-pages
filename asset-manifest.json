@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fraud-analysis-gh-pages/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/fraud-analysis-gh-pages/static/js/main.77ab9483.chunk.js",
+    "main.js.map": "/fraud-analysis-gh-pages/static/js/main.77ab9483.chunk.js.map",
+    "runtime-main.js": "/fraud-analysis-gh-pages/static/js/runtime-main.68bf0df4.js",
+    "runtime-main.js.map": "/fraud-analysis-gh-pages/static/js/runtime-main.68bf0df4.js.map",
+    "static/js/2.82250094.chunk.js": "/fraud-analysis-gh-pages/static/js/2.82250094.chunk.js",
+    "static/js/2.82250094.chunk.js.map": "/fraud-analysis-gh-pages/static/js/2.82250094.chunk.js.map",
+    "static/js/3.424c4b4f.chunk.js": "/fraud-analysis-gh-pages/static/js/3.424c4b4f.chunk.js",
+    "static/js/3.424c4b4f.chunk.js.map": "/fraud-analysis-gh-pages/static/js/3.424c4b4f.chunk.js.map",
+    "index.html": "/fraud-analysis-gh-pages/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/fraud-analysis-gh-pages/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.82250094.chunk.js.LICENSE.txt": "/fraud-analysis-gh-pages/static/js/2.82250094.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/fraud-analysis-gh-pages/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68bf0df4.js",
+    "static/js/2.82250094.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.77ab9483.chunk.js"
+  ]
+}
